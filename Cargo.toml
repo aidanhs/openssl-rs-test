@@ -1,0 +1,8 @@
+[package]
+name = "openssl-test"
+version = "0.1.0"
+authors = ["Aidan Hobson Sayers <aidanhs@cantab.net>"]
+
+[dependencies]
+openssl = "0.7.14"
+hyper = "0.9.10"
